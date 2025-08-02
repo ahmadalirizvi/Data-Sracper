@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![Playwright](https://img.shields.io/badge/Playwright-Automation-success)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Status](https://img.shields.io/badge/Status-Working-brightgreen)
+
 **Target Store Locator Scraper**
 
 A Python-based web scraper that automatically extracts all Target store names, grouped by city, from Target’s Store Locator. Built using Playwright, this scraper bypasses bot protection and handles dynamic content effectively.
